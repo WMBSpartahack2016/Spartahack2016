@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WMB</string>
+    <string name="recent">Recent</string>
+    <string name="search_result">Results</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_search">Search</string>
+    <string name="search_hint">Search for Bus Stops</string>
+    <string name="nearby">Near By</string>
+    <string name="favorites">Favorites</string>
+    <string name="title_activity_route_map">Map</string>
+    <string name="persist_key_camera_position">CAMERA_POSITION</string>
+    <string name="persist_key_map_type">MAP_TYPE</string>
+    <string name="persist_key_bus_locations">BUS_LOCATION</string>
+    <string name="persist_key_favorites">FAVORITES</string>
+    <string name="persist_key_recent">RECENT</string>
+    <string name="prefs_key_stops">STOPS</string>
+</resources>

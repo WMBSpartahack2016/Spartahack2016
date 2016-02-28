@@ -1,0 +1,38 @@
+<resources>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+
+    <style name="Theme.MyCompatTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/winBackground</item>
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+        <item name="actionBarStyle">@style/ActionBar</item>
+    </style>
+
+    <style name="ActionBar"
+        parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/background</item>
+        <item name="background">@color/background</item>
+    </style>
+
+    <style name="WTBListItem">
+        <item name="android:textSize">20dp</item>
+        <item name="android:paddingLeft">36dp</item>
+        <item name="android:paddingTop">2dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">2dp</item>
+    </style>
+    <style name="WTBListGroupItem">
+        <item name="android:textSize">22dp</item>
+        <item name="android:paddingLeft">36dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+    </style>
+    <color name="winBackground">#ffffff</color>
+    <color name="background">#0f5104</color>
+    <color name="sepBackground">#0f3f0f</color>
+    <color name="brightText">#ffffff</color>
+</resources>
